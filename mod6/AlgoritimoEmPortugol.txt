@@ -1,0 +1,26 @@
+Hora de acordar:
+
+1. Desligo o despertador;
+2. Acendo a luz;
+3. Se o ventilador estiver ligado;
+	1. Desligo o ventilador;
+4. Se o humidificador de ar estiver ligado;
+	1. Desligo o humidificador;
+5. Levanto da cama;
+6. Pego a roupa de treino no guarda-roupa;
+7. Tiro o pijama;
+8. Visto a roupa de treino;
+9. Pego o tênis no guarda-roupa;
+10. Pego a meia no guarda-roupa;
+11. Calço o tênis;
+12. Pego o controle da luz\ventilador que está na cama;
+13. Pego o celular e coloco no bolso;
+14. Pego o fone de ouvido;
+15. Se a porta estiver fechada;
+	1. Coloco a mão na maçaneta;
+	2. Giro a maçaneta 90%;
+	3. Puxo a porta;
+16. Coloco o controle da lux\ventilador ao lado do interruptor perto da porta;
+17. Saio do quarto;
+18. Coloco o celular e o fone na mesa da copa;
+19. Vou ao banheiro;
