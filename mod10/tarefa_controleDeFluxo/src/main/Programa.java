@@ -7,7 +7,7 @@ public class Programa {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		
+			
 		System.out.println("Digite o valor da primeira prova:");
 		float nota1 = scanner.nextFloat();
 		System.out.println("Digite o valor da segunda prova:");
