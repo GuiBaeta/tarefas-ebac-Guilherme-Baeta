@@ -33,4 +33,9 @@ public class Pessoas {
 	public String toString() {
         return this.nome;
     }
+	
+	public int compareTo(Pessoas outraPessoa) {
+		return this.nome.compareToIgnoreCase(outraPessoa.getNome());
+	}
+	
 }
