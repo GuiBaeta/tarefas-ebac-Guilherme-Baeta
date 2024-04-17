@@ -9,6 +9,6 @@ public class UsandoAnnotation {
 	String nome = "Exercicio de Annotation";
 
 	System.out.println(nome);
+	
 	}
-
 }
