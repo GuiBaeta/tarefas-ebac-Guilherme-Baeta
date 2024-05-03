@@ -5,7 +5,7 @@ package br.com.gbaeta.services;
 
 import br.com.gbaeta.dao.IClienteDAO;
 import br.com.gbaeta.domain.Cliente;
-import br.com.gbaeta.reflections.anotacao.cadastro.exception.TipoChaveNaoEncontradaException;
+import br.com.gbaeta.exception.TipoChaveNaoEncontradaException;
 
 /**
  * @author GuilhermeBaeta

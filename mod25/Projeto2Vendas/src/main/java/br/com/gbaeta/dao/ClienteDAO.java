@@ -1,7 +1,7 @@
 package br.com.gbaeta.dao;
 
+import br.com.gbaeta.dao.generic.GenericDAO;
 import br.com.gbaeta.domain.Cliente;
-import br.com.gbaeta.reflections.anotacao.cadastro.dao.generic.GenericDAO;
 
 public class ClienteDAO extends GenericDAO<Cliente> implements IClienteDAO {
 
