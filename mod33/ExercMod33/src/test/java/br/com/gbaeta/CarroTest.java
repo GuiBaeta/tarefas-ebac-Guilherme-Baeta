@@ -62,7 +62,6 @@ public class CarroTest {
 		assertTrue(carro1.getAcessorios().contains(acessorio1)); // Verificando associação Many-to-Many
 		assertTrue(carro1.getAcessorios().contains(acessorio2));
 
-		/*
 		Carro carro2 = new Carro();
 		carro2.setCodigo("C2");
 		carro2.setNome("Ranger");
@@ -80,7 +79,6 @@ public class CarroTest {
 		System.out.println(carro2.getAcessorios());
 		assertTrue(carro2.getAcessorios().contains(acessorio1));
 		assertTrue(carro2.getAcessorios().contains(acessorio2));
-		*/
 
 	}
 
